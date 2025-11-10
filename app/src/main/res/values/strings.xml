@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practica18</string>
+    
+    <string-array name="titulos">
+        <item>Madrid</item>
+        <item>Barcelona</item>
+        <item>Cáceres</item>
+        <item>Badajoz</item>
+        <item>Talavera de la Reina</item>
+    </string-array>
+
+    <string-array name="subtitulos">
+        <item>Subtítulo de Madrid</item>
+        <item>Subtítulo de Barcelona</item>
+        <item>Subtítulo de Cáceres</item>
+        <item>Subtítulo de Badajoz</item>
+        <item>Subtítulo de Talavera de la Reina</item>
+    </string-array>
+</resources>
